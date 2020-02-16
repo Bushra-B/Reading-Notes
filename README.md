@@ -6,8 +6,8 @@
 
 Read # | Topic / Link
 ---------|-------------
-Read 1 | [Introductory HTML and JavaScript]
-------------|-------------------------------
+Read 1 | [Introductory HTML and JavaScript](https://bushra-b.github.io/Reading-Notes/class-01)
+------------|----------------------------------------------------------------------------------
 REad 2 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions]
 -------------------|-------------------------------------------------------
 REad 3 | [HTML Lists, CSS Boxes, JS Control Flow]

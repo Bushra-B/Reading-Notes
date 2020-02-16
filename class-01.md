@@ -75,18 +75,18 @@ HTML5 allows you to use uppercase attribute names and omit the quotemarks, but t
 
 ## Basic HTML elements:
 
-- <head>
+- `<head>`  
 This element contains information about the page, that are not shown in the browser.  
 A <title> element is usually inside the <head> element. 
 
-- <body>  
+- `<body>`  
 Everything inside this element is shown inside the main browser window, so all the content is included inside this element
 
-- <title>
+- `<title>`  
 This element contains the title that shows up in the browser title bar
 
 # HTML - Extra Markup
----------------------------
+
 ## HTML versions:  
 **Each new version of HTML has new elements and attributes added and older code removed**
 
@@ -131,30 +131,32 @@ add text/code between a  ` \* ` and a ` *\ `
 ## Block Elements:
 **Block elements always start on a new line in the browser window**
 
-- examples of block elements are :
-        <h1>, <p>, <ul>, and <li>
+- examples of block elements are :  
+
+        `<h1>, <p>, <ul>, and <li>`
 
 ## Inline Elements:
 **Inline elements always continue on the same line as their neighbouring elements**
 
-- examples of inline elements are:
-         <a>, <b>, <em>, and <img>
+- examples of inline elements are:  
+
+        ` <a>, <b>, <em>, and <img> `
 
 ## Grouping text and Elements in a Block:
-**A set of elements can be grouped together in one block-level box using the <div> element**
+**A set of elements can be grouped together in one block-level box using the <div> element**  
 
-- you can use an id or class attribute on the <div> element so you can create CSS style rules to indicate how much space the <div> element should occupy on the screen and change the appearance of all the elements contained within it
-- you can use a <div> element for each section of your page to make your code more organized and easier to follow
+- you can use an id or class attribute on the <div> element so you can create CSS style rules to indicate how much space the <div> element should occupy on the screen and change the appearance of all the elements contained within it  
+- you can use a <div> element for each section of your page to make your code more organized and easier to follow  
 
 ## Grouping text and Elements Inline:
-**A set of elements can be grouped together inline  using the <span> element**
-- <span> element is used to
-    - contain a section of text to differentiate it from its surrounding text
-    - contain a number of inline elements
-- classes and id's can be used with <span> elements to explain their purpose and to apply CSS styles to them
+**A set of elements can be grouped together inline  using the <span> element**  
+- <span> element is used to  
+    - contain a section of text to differentiate it from its surrounding text  
+    - contain a number of inline elements  
+- classes and id's can be used with <span> elements to explain their purpose and to apply CSS styles to them  
 
 ## Iframes:
-**An iframe, which is an abbreviation of inline frame, is a little window that has been cut into your page, in which you can see another page** 
+**An iframe, which is an abbreviation of inline frame, is a little window that has been cut into your page, in which you can see another page**  
 
 - the content of the iframe can be any HTML page (located anywhere on the web) 
 - attributes that can be used with an <iframe> element:
@@ -171,27 +173,27 @@ add text/code between a  ` \* ` and a ` *\ `
 **New elements werer created in HTML5 to be used to help describe the structure of the page**
 HTML5 new elements include:
 
-1. <header>
-1. <nav>
-1. <article>
-1. <aside>
-1. <footer>
+1. `<header>`
+1. `<nav>`
+1. `<article>`
+1. `<aside>`
+1. `<footer>`
 
-- <header> and <footer> elements can be used both for the main header and footer that appears on every page, or as a header and footer for an individual <article> or <section> within the page
+- `<header>` and `<footer>` elements can be used both for the main header and footer that appears on every page, or as a header and footer for an individual <article> or <section> within the page
 
-- The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation, and it can also be used  for the links that appear at the bottom of every page 
+- The `<nav>` element is used to contain the major navigational blocks on the site such as the primary site navigation, and it can also be used  for the links that appear at the bottom of every page 
 
-- The <article> element acts as a container for any section of the page, and several <article> can be nested inside each other
+- The `<article>` element acts as a container for any section of the page, and several <article> can be nested inside each other
 
-- The purpode of the <aside> element depends on its position;
-    - inside an <article> element: 
+- The purpode of the `<aside>` element depends on its position;
+    - inside an `<article>` element: 
       it should contain information that is related to the article but not essential to its overall meaning
-    - outside an <article> element:
+    - outside an `<article>` element:
        it acts as a container for content that is related to the entire page
 
-- The <section> element groups related content together
+- The `<section>` element groups related content together
 
-- You can group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading, using <hgroup> element
+- You can group together a set of one or more `<h1>` through `<h6>` elements so that they are treated as one single heading, using `<hgroup>` element
 
 - To contain any content that is referenced from the main flow of an article, you can use the <figure> element
 

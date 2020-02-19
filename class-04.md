@@ -43,14 +43,16 @@ Uniform Resource Locator
 ### Building Blocks: 
 - **block-level**
     - start on a new line
-    - block-level elements:
+    - block-level elements
+    
 ```
 <h1> , <p> , <ul> , <li> 
 ```
 
 - **inline box**
     - flow between text
-    - inline box elements:
+    - inline box elements
+    
 ```
 <img> , <b> , <i>
 ```
@@ -73,18 +75,23 @@ function function-name() {
          code statement;
 }
 ```
-- calling a function: 
+- calling a function
+
 ```
 function-name();
 ```
-- declaring a function that needs information:
+
+- declaring a function that needs information
+
 ```
 function function-name(parameter) {
          code statement;
          return parameter;
 }
 ```
-- calling a function that needs information:
+
+- calling a function that needs information
+
 ```
 function-name(parameter);
 ```

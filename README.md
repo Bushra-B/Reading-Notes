@@ -10,8 +10,8 @@ Read 1 | [Introductory HTML and JavaScript](https://bushra-b.github.io/Reading-N
 ------------|----------------------------------------------------------------------------------
 REad 2 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://bushra-b.github.io/Reading-Notes/class-02)
 -------------------|----------------------------------------------------------------------------------------------------------
-REad 3 | [HTML Lists, CSS Boxes, JS Control Flow]
---------------|----------------------------------
+REad 3 | [HTML Lists, CSS Boxes, JS Control Flow](https://bushra-b.github.io/Reading-Notes/class-03)
+--------------|---------------------------------------------------------------------------------------
 Read 4 | [HTML Links, CSS Layout, JS Functions]
 -----------------------|-------------------------
 Read 5 | [HTML Images; CSS Color & Text]

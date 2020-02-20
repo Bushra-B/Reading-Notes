@@ -11,7 +11,7 @@
 - **Links that open in a new window**
 
 ### Creating a link
-- using ` <a> ` element with the attribute `href`
+- using `<a>` element with the attribute `href`
 
 ```
 <a href = "URL'>Link-text<\a>

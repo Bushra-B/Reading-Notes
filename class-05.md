@@ -15,7 +15,7 @@ and you may also add subfolders to the images folder to sort related images.**
 
 ## Adding Images Using HTML
 
-- images can be added into a webpage using ` <img> ` element.
+- images can be added into a webpage using `<img>` element.
 - ` <img> ` element is called an *empty element*, which means it doesn't have a closing tag
 - the ` <img> ` element  **_must_**  carry two attributes:
     1. ` src ` 
@@ -24,12 +24,12 @@ and you may also add subfolders to the images folder to sort related images.**
     2. ` alt ` 
         - to describe the image if you can't see it
         - contains text description  (*alt text*) of the image
-        - if the image used is not a meaningful image and used only for attractivness, you should use the ` alt ` attribute, but without the alt text (empty quotes)
-- the ` title ` attribute can be used with the ` <img> ` element to provide additional information about the image
+        - if the image used is not a meaningful image and used only for attractivness, you should use the `alt` attribute, but without the alt text (empty quotes)
+- the `title` attribute can be used with the ` <img> ` element to provide additional information about the image
 
 ## Height and Width of Images
 
-**To specify the size of an image, two attributes can be used with the ` <img> ` element:**
+**To specify the size of an image, two attributes can be used with the `<img>` element:**
 
 1. ` height `
     - to specify the height of the image  **_in pixels_**
@@ -43,11 +43,12 @@ and you may also add subfolders to the images folder to sort related images.**
 
 **Image placements:**
 
-1. when ` <img> ` is followed by a block-level element which always appear on a new line, such as ` <p> ` and ` <h1> `
-    - the image appear before a paragraph 
+1. when `<img>` is followed by a block-level element which always appear on a new line, such as  
+ `<p>` and `<h1>`
+    - the image appear before a paragraph  
         \>the paragraph starts on a new line **_after_** the image
-2.  when ` <img> ` is followed by an inline element which sits within a block level element and do not start on a new line
-    - the image appear inside the start of a paragraph 
+2.  when `<img>` is followed by an inline element which sits within a block level element and do not start on a new line
+    - the image appear inside the start of a paragraph  
          \> the paragraph strats on the **_same_** line as the image such that the  first row of text aligns with the bottom of the image
     - the image appear in the mIddle of a paragraph 
          \>the  image is placed between the words of the paragraph
@@ -77,7 +78,7 @@ and you may also add subfolders to the images folder to sort related images.**
 
 # CSS - Color
 
-** CSS ` color ` property:**
+** CSS `color` property:**
 
    - to specify the color of *text* inside an element
 
@@ -87,7 +88,7 @@ and you may also add subfolders to the images folder to sort related images.**
 - Hex codes
 - color names
 
-**CSS ` background-color ` property:**
+**CSS `background-color` property:**
 
    - specifies the color of the background of the CSS box containing the element 
 
@@ -110,5 +111,5 @@ and you may also add subfolders to the images folder to sort related images.**
 **Browsers will display the typeface you choosed only if it is installed on the user's computer.**
 
 - not any typeface you choose will appear to the user
-- you can specify the typeface you want for any text inside elements using the CSS property : ` font-family `
-- you can specify the size of the font using: ` font-size ` in pixels, percentages or ems
+- you can specify the typeface you want for any text inside elements using the CSS property : `font-family`
+- you can specify the size of the font using: `font-size` in pixels, percentages or ems

@@ -12,8 +12,8 @@ REad 2 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https:
 -------------------|----------------------------------------------------------------------------------------------------------
 REad 3 | [HTML Lists, CSS Boxes, JS Control Flow](https://bushra-b.github.io/Reading-Notes/class-03)
 --------------|---------------------------------------------------------------------------------------
-Read 4 | [HTML Links, CSS Layout, JS Functions]
------------------------|-------------------------
+Read 4 | [HTML Links, CSS Layout, JS Functions](https://bushra-b.github.io/Reading-Notes/class-04)
+-----------------------|---------------------------------------------------------------------------
 Read 5 | [HTML Images; CSS Color & Text]
 -------|-----------------------------------
 Read 6 | [JS Object Literals; The DOM]

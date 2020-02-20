@@ -14,8 +14,8 @@ REad 3 | [HTML Lists, CSS Boxes, JS Control Flow](https://bushra-b.github.io/Rea
 --------------|---------------------------------------------------------------------------------------
 Read 4 | [HTML Links, CSS Layout, JS Functions](https://bushra-b.github.io/Reading-Notes/class-04)
 -----------------------|---------------------------------------------------------------------------
-Read 5 | [HTML Images; CSS Color & Text]
--------|-----------------------------------
+Read 5 | [HTML Images; CSS Color & Text](https://bushra-b.github.io/Reading-Notes/class-05)
+-------|--------------------------------------------------------------------------------------
 Read 6 | [JS Object Literals; The DOM]
 -------|-------------------------------
 Read 7 | [HTML Tables; JS Constructor Functions]

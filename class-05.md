@@ -25,7 +25,7 @@ and you may also add subfolders to the images folder to sort related images.**
         - to describe the image if you can't see it
         - contains text description  (*alt text*) of the image
         - if the image used is not a meaningful image and used only for attractivness, you should use the `alt` attribute, but without the alt text (empty quotes)
-- the `title` attribute can be used with the ` <img> ` element to provide additional information about the image
+- the `title` attribute can be used with the `<img>` element to provide additional information about the image
 
 ## Height and Width of Images
 
@@ -46,7 +46,7 @@ and you may also add subfolders to the images folder to sort related images.**
 1. when `<img>` is followed by a block-level element which always appear on a new line, such as  
  `<p>` and `<h1>`
     - the image appear before a paragraph  
-        \>the paragraph starts on a new line **_after_** the image
+        \> the paragraph starts on a new line **_after_** the image
 2.  when `<img>` is followed by an inline element which sits within a block level element and do not start on a new line
     - the image appear inside the start of a paragraph  
          \> the paragraph strats on the **_same_** line as the image such that the  first row of text aligns with the bottom of the image
@@ -55,13 +55,13 @@ and you may also add subfolders to the images folder to sort related images.**
 
 ## Rule for Creating Images
 
-**1. save images in the right format**
+**1. save images in the right format**  
     \> jpeg, png, gif
 
-**2. save images at thr right size**
+**2. save images at thr right size**  
     \> at the same height and width specified in the attributes
 
-**3. use the correct resolution**
+**3. use the correct resolution**  
    \> 72 pixels per inch
 
 ## Image Formats
@@ -78,7 +78,7 @@ and you may also add subfolders to the images folder to sort related images.**
 
 # CSS - Color
 
-** CSS `color` property:**
+**CSS `color` property:**
 
    - to specify the color of *text* inside an element
 

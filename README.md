@@ -16,8 +16,8 @@ Read 4 | [HTML Links, CSS Layout, JS Functions](https://bushra-b.github.io/Readi
 -----------------------|---------------------------------------------------------------------------
 Read 5 | [HTML Images; CSS Color & Text](https://bushra-b.github.io/Reading-Notes/class-05)
 -------|--------------------------------------------------------------------------------------
-Read 6 | [JS Object Literals; The DOM]
--------|-------------------------------
+Read 6 | [JS Object Literals; The DOM](https://bushra-b.github.io/Reading-Notes/class-06)
+-------|--------------------------------------------------------------------------------------
 Read 7 | [HTML Tables; JS Constructor Functions]
 -------|-----------------------------------------
 Read 8 | [More CSS Layout]

@@ -1,21 +1,26 @@
 # CSS Layout
 
 ### Ways to position elemnets — positioning schemes: 
+
 - **normal flow**
 - **relative positioning**
 - **absolute positioning**
 - **floats**
 
 ### Building Blocks: 
+
 - **block-level**
     - start on a new line
     - block-level elements:
+    
 ```
 <h1> , <p> , <ul> , <li> 
 ```
+
 - **inline box**
     - flow between text
     - inline box elements:
+    
 ```
 <img> , <b> , <i>
 ```

@@ -18,16 +18,16 @@ Read 5 | [HTML Images; CSS Color & Text](https://bushra-b.github.io/Reading-Note
 -------|--------------------------------------------------------------------------------------
 Read 6 | [JS Object Literals; The DOM](https://bushra-b.github.io/Reading-Notes/class-06)
 -------|--------------------------------------------------------------------------------------
-Read 7 | [HTML Tables; JS Constructor Functions]
--------|-----------------------------------------
-Read 8 | [More CSS Layout]
--------|----------------------------
-Read 9 | [Forms and Events]
--------|------------------------------
-Read 10 | [JS Debugging]
---------|-----------------------------
-Read 11 | [Assorted Topics]
---------|-----------------------------
+Read 7 | [HTML Tables; JS Constructor Functions](https://bushra-b.github.io/Reading-Notes/class-07)
+-------|---------------------------------------------------------------------------------------------
+Read 8 | [More CSS Layout](https://bushra-b.github.io/Reading-Notes/class-08)
+-------|----------------------------------------------------------------------
+Read 9 | [Forms and Events](https://bushra-b.github.io/Reading-Notes/class-09)
+-------|-----------------------------------------------------------------------
+Read 10 | [JS Debugging](https://bushra-b.github.io/Reading-Notes/class-10)
+--------|-------------------------------------------------------------------
+Read 11 | [Assorted Topics](https://bushra-b.github.io/Reading-Notes/class-11)
+--------|----------------------------------------------------------------------
 Read 12 | [Docs for the HTML canvas Element & Chart js]
 --------|------------------------------------------------
 Read 13 | [Local Storage]
